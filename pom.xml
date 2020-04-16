@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>common-service</artifactId>
+    <artifactId>commons</artifactId>
     <groupId>com.reckue</groupId>
     <version>0.0.1</version>
 

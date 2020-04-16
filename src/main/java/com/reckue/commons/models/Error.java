@@ -1,4 +1,4 @@
-package com.reckue.common.models;
+package com.reckue.commons.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
